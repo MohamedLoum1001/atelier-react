@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/atelier-react/static/css/main.3e4cc896.css",
-    "main.js": "/atelier-react/static/js/main.fec2baee.js",
+    "main.css": "/atelier-react/static/css/main.fbb3a051.css",
+    "main.js": "/atelier-react/static/js/main.045475f6.js",
     "static/media/gant.png": "/atelier-react/static/media/gant.f7b904f99f0c811c1c5a.png",
     "static/media/adidas.png": "/atelier-react/static/media/adidas.7d9bda87ef023a6674fb.png",
     "static/media/Real.png": "/atelier-react/static/media/Real.d18a947f01b5fa59d2ca.png",
@@ -9,12 +9,13 @@
     "static/media/Barcelone.png": "/atelier-react/static/media/Barcelone.4ff37bedb4d2a2150726.png",
     "static/media/Milan.png": "/atelier-react/static/media/Milan.af0dcd84f49dfd8bd1de.png",
     "static/media/golden-states.png": "/atelier-react/static/media/golden-states.3b24e76f16ceb0c4a444.png",
+    "static/media/bakeli.png": "/atelier-react/static/media/bakeli.2392cc7e22f883f2555e.png",
     "index.html": "/atelier-react/index.html",
-    "main.3e4cc896.css.map": "/atelier-react/static/css/main.3e4cc896.css.map",
-    "main.fec2baee.js.map": "/atelier-react/static/js/main.fec2baee.js.map"
+    "main.fbb3a051.css.map": "/atelier-react/static/css/main.fbb3a051.css.map",
+    "main.045475f6.js.map": "/atelier-react/static/js/main.045475f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e4cc896.css",
-    "static/js/main.fec2baee.js"
+    "static/css/main.fbb3a051.css",
+    "static/js/main.045475f6.js"
   ]
 }
